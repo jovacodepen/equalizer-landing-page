@@ -120,7 +120,7 @@ main .main-row {
   min-height: 600px;
   position: relative;
   margin-top: 200px;
-  background-image: url("/dist/img/bg-pattern-2.svg");
+  background-image: url("../dist/img/bg-pattern-2.svg");
   background-repeat: no-repeat;
   background-position: 46% -30%;
 }
