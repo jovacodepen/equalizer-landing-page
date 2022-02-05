@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  background: url("/dist/img/bg-main-desktop.png");
+  background: url("../img/bg-main-desktop.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position-y: 20%;
@@ -120,7 +120,7 @@ main .main-row {
   min-height: 600px;
   position: relative;
   margin-top: 200px;
-  background-image: url("../dist/img/bg-pattern-2.svg");
+  background-image: url("../img/bg-pattern-2.svg");
   background-repeat: no-repeat;
   background-position: 46% -30%;
 }
